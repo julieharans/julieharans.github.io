@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700italic,700);
+
+* {
+  background: transparent; !important
+  color: black;
+  font-size: 12pt;
+  font-family: "Playfair Display", serif;
+  line-height: 1;
+}
+
+@page {
+  margin: 0.5in;
+}
+
+.JulieHarans {
+  font-size: 20pt;
+  font-style: italic;
+}
+
+#education {
+  margin-top: .3in;
+}
+
+#experience {
+  margin: 0 0 .3in 0;
+}
+
+#col-one {
+  float: left;
+  width: 3in;
+}
+
+#col-two {
+  float: left;
+  width: 3in;
+  padding: 0 0 0 .75in;
+}
+
+#honors {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+nav,footer {
+  display: none;
+}
+
+img {
+  display: none;
+}

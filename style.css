@@ -1,0 +1,92 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700italic,700);
+
+body {
+  font-family: 'Playfair Display', serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: rgb(0, 71, 96);
+}
+
+div.wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+div.nav ul li{
+  display: inline-block;
+  padding: 10px 55px 10px 55px;
+  width: 115px;
+  margin: 0px auto;
+}
+
+div.container {
+  padding: 30px;
+}
+
+a {
+  color: rgb(0, 71, 96);
+}
+
+a:visited {
+  color: rgb(123, 71, 137);
+}
+
+a:hover {
+  font-style: italic;
+  color: rgb(0, 71, 96);
+}
+
+a:active {
+  color: red;
+}
+
+h1 {
+  font-weight: 700;
+  font-style: italic;
+  width: 200px;
+  margin: 0px auto;
+}
+
+h2 {
+  font-weight: 700;
+}
+
+h3 {
+  font-weight: 700;
+}
+
+main {
+  overflow: auto;
+}
+
+#education {
+  margin: 0px 0px 60px 0px;
+}
+
+#col-one {
+  float: left;
+  width: 300px;
+}
+
+#col-two {
+  float: left;
+  width: 300px;
+  margin: 0px 0px 0px 200px;
+}
+
+#honors {
+  float: left;
+  padding: 10px 0px 30px 30px;
+}
+
+#logo {
+  float:right;
+  padding: 50px 100px 10px 0px;
+}
+
+footer {
+  clear: both;
+  width: 445px;
+  margin: 0px auto;
+}
