@@ -1,0 +1,159 @@
+@import url(https://fonts.googleapis.com/css?family=Yeseva+One);
+
+body {
+  font-family: 'Pontano Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #222;
+  background-color: white;
+}
+
+
+nav ul li{
+  display: inline-block;
+  font-family: 'Yeseva One', cursive;
+  padding: 10px 50px 10px 50px;
+  width: 80px;
+  margin: 0px auto;
+  margin-top: -30px;
+}
+
+div.container {
+  padding: 30px;
+}
+
+a {
+  color: rgb(159,2,2);
+  font-family: 'Yeseva One', cursive;
+}
+
+a:visited {
+  color: rgb(123, 71, 137);
+}
+
+a:hover {
+  font-style: italic;
+  color: rgb(159,2,2);
+}
+
+a:active {
+  color: red;
+}
+
+h1 {
+  font-weight: 700;
+  font-style: italic;
+  text-shadow: 2px 4px black;
+}
+
+h2 {
+  font-family: 'Yeseva One', cursive;
+}
+
+h3 {
+  font-family: 'Pontano Sans', sans-serif;
+  font-style: italic;
+}
+
+main {
+  overflow: auto;
+}
+
+#education {
+  margin: 30px 0px 60px 0px;
+  display: inline-block;
+}
+
+#col-one {
+  float: left;
+  width: 300px;
+  margin: 0px 0px 0px 0px;
+}
+
+#col-two {
+  float: right;
+  width: 300px;
+  margin: 60px 0px 0px 0px;
+}
+
+#honors {
+  float: right;
+  margin-top: 30px;
+}
+
+#logo {
+  float:right;
+  padding: 50px 100px 10px 0px;
+}
+
+header {
+  font-family: 'Yeseva One', cursive;
+  font-size: 32px;
+  width: 500px;
+  margin: 0px auto;
+}
+
+#about {
+  width: 500px;
+  margin: 0px auto;
+}
+
+#photo {
+  float:right;
+}
+
+div.content {
+  width: 994px;
+  margin: 0px auto;
+}
+
+span.bold {
+  font-family: 'Yeseva One', cursive;
+}
+
+div.row1 {
+  float: left;
+  margin-left: 180px;
+  max-width: 375px;
+}
+
+div.row2 {
+  float: right;
+  margin-right: 180px;
+  max-width: 375px;
+
+}
+
+img {
+  max-width: 100%;
+}
+
+.article-links {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#clips-nav {
+  width: 994px;
+  margin: 0px auto;
+}
+
+div.landingpage {
+  width: 400px;
+  margin: 0px auto;
+}
+
+#enter {
+  width: 400px;
+  margin-left: 100px;
+}
+
+div.talk {
+  margin-right: 500px;
+  margin-top: 50px;
+}
+
+#welcome {
+  margin-top: 50px;
+}
