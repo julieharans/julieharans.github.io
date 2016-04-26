@@ -49,6 +49,7 @@ h1 {
 
 h2 {
   font-family: 'Yeseva One', cursive;
+  line-height: 30px;
 }
 
 h3 {
@@ -130,8 +131,8 @@ img {
 }
 
 .article-links {
-  margin-top: 50px;
-  margin-bottom: 50px;
+  margin-top: 30px;
+  margin-bottom: 70px;
 }
 
 #clips-nav {
@@ -140,13 +141,13 @@ img {
 }
 
 div.landingpage {
-  width: 400px;
+  width: 345px;
   margin: 0px auto;
 }
 
-#enter {
-  width: 400px;
-  margin-left: 100px;
+#landing-nav {
+  width: 994px;
+  margin: 0px auto;
 }
 
 div.talk {
