@@ -7,6 +7,7 @@ body {
   line-height: 1.5;
   color: #222;
   background-color: white;
+  margin-top: 0px;
 }
 
 
@@ -34,7 +35,6 @@ a:visited {
 
 a:hover {
   font-style: italic;
-  color: rgb(159,2,2);
 }
 
 a:active {
@@ -107,6 +107,7 @@ header {
 div.content {
   width: 994px;
   margin: 0px auto;
+  margin-top: 0px;
 }
 
 span.bold {
@@ -147,7 +148,7 @@ div.landingpage {
 
 #landing-nav {
   width: 994px;
-  margin: 0px auto;
+  margin: 0px 0px 0px 270px;
 }
 
 div.talk {
@@ -157,4 +158,8 @@ div.talk {
 
 #welcome {
   margin-top: 50px;
+}
+
+#mobile-only {
+  display: none;
 }
